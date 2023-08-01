@@ -1,0 +1,33 @@
+body
+{
+	/*background-image:url(images/bg.png); */
+	background:#AAB9C1;
+}
+
+.rounded
+{
+	width:500px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+	font-family:Arial;
+	z-index:9999;
+	border:5px solid #3E494F;
+	
+}
+
+.inner
+{
+	overflow:hidden;
+	width:500px;
+	background-color:#CEDBE4!important;
+	z-index:100001;	
+	/*min-height:415px; /*ff*/
+	/*height: auto !important; /*ie7 */
+}
+
+.headingsub
+{
+	background-color:#FFFFFF; padding:10px 27px; font-family:Arial; font-weight:normal; font-size:17px
+}

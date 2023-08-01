@@ -1,0 +1,10 @@
+[21-Jan-2018 14:15:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thewealt/public_html/pages/database.php on line 60
+[21-Jan-2018 14:15:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'heaplan_a'@'host6.eidhosting.com' (using password: YES) in /home/thewealt/public_html/pages/database.php on line 60
+[24-Aug-2019 02:43:52 US/Central] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thewealt/public_html/pages/database.php on line 60
+[24-Aug-2019 02:43:55 US/Central] PHP Warning:  mysql_connect(): No route to host in /home/thewealt/public_html/pages/database.php on line 60
+[27-Aug-2019 14:08:20 US/Central] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thewealt/public_html/pages/database.php on line 60
+[27-Aug-2019 14:08:23 US/Central] PHP Warning:  mysql_connect(): No route to host in /home/thewealt/public_html/pages/database.php on line 60
+[30-Aug-2019 01:20:46 US/Central] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thewealt/public_html/pages/database.php on line 60
+[30-Aug-2019 01:20:49 US/Central] PHP Warning:  mysql_connect(): No route to host in /home/thewealt/public_html/pages/database.php on line 60
+[31-Aug-2019 18:01:15 US/Central] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/thewealt/public_html/pages/database.php on line 60
+[31-Aug-2019 18:01:18 US/Central] PHP Warning:  mysql_connect(): No route to host in /home/thewealt/public_html/pages/database.php on line 60

@@ -33,11 +33,11 @@
 	}else{
 
 		$hostname = "localhost";
-		$database = "rsite_heaplan";
-		$username = "root";
-		$password = "";
+		$database = "heaplan";
+		$username = "heaplan";
+		$password = "heaplan2022";
 
-		define("ABSOLUTE_PATH",			"http://pages.wealthpreservationinstitute.local/");
+		define("ABSOLUTE_PATH",			"http://pages.wealthpreservationinstitute.com/");
 
 		define("DOC_ROOT",$_SERVER['DOCUMENT_ROOT'] . "/");
 

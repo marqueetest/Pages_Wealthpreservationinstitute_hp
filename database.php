@@ -37,7 +37,7 @@
 		$username = "heaplan";
 		$password = "heaplan2022";
 
-		define("ABSOLUTE_PATH",			"http://pages.wealthpreservationinstitute.com/");
+		define("ABSOLUTE_PATH",			"https://pages.wealthpreservationinstitute.com/");
 
 		define("DOC_ROOT",$_SERVER['DOCUMENT_ROOT'] . "/");
 
